@@ -35,7 +35,7 @@ def baixar(url, tipo):
 
 
 if __name__ == "__main__":
-    print("=== DOWNLOADER PRO (MP4/MP3) ===")
+    print("=== baixador para youtube (MP4/MP3) ===")
     url = input("Cole o link do YouTube: ").strip()
 
     print("\nComo deseja baixar?")
